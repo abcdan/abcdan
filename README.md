@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Daniel!
+My name is **Daniel**!
 
 - 🔭 I’m currently working on **a lot of projects**
 - 🌱 I’m currently learning **Golang**
