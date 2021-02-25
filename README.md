@@ -1,6 +1,6 @@
 # Heya 👋!
 
-My name is Daniel and I'm a Software Engineer currently studying at Hogeschool Leiden in The Netherlands.
+My name is Daniel and I'm a Software Engineer currently studying at Hogeschool Leiden in The Netherlands. Get to know me with this README!
 
 
 ## ⚡ Recent activity
