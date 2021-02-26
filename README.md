@@ -2,6 +2,13 @@
 
 My name is Daniel and I'm a Software Engineer currently studying at Hogeschool Leiden in The Netherlands. Get to know me with this README!
 
+## 💪 Current projects
+I'm currently heavily working on a library called [Chainson](https://github.com/abcdan/chainson). It's a database without dependencies or SQL. It's basically a glorified persitstent Map that's also really easy to work with.
+
+Nex to that, I work on
+- [file.coffee](https://file.coffee) from time to time;
+- [EasyTickets](https://easytickets.xyz) once in a blue moon;
+- A lot of one day projects.
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
