@@ -12,11 +12,11 @@ Nex to that, I work on
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/abcdan/chainson/pull/27) in [abcdan/chainson](https://github.com/abcdan/chainson)
-2. 💪 Opened PR [#27](https://github.com/abcdan/chainson/pull/27) in [abcdan/chainson](https://github.com/abcdan/chainson)
-3. 🎉 Merged PR [#26](https://github.com/abcdan/chainson/pull/26) in [abcdan/chainson](https://github.com/abcdan/chainson)
-4. 💪 Opened PR [#26](https://github.com/abcdan/chainson/pull/26) in [abcdan/chainson](https://github.com/abcdan/chainson)
-5. ❗️ Opened issue [#25](https://github.com/abcdan/chainson/issues/25) in [abcdan/chainson](https://github.com/abcdan/chainson)
+1. ❗️ Closed issue [#25](https://github.com/abcdan/chainson/issues/25) in [abcdan/chainson](https://github.com/abcdan/chainson)
+2. 🎉 Merged PR [#27](https://github.com/abcdan/chainson/pull/27) in [abcdan/chainson](https://github.com/abcdan/chainson)
+3. 💪 Opened PR [#27](https://github.com/abcdan/chainson/pull/27) in [abcdan/chainson](https://github.com/abcdan/chainson)
+4. 🎉 Merged PR [#26](https://github.com/abcdan/chainson/pull/26) in [abcdan/chainson](https://github.com/abcdan/chainson)
+5. 💪 Opened PR [#26](https://github.com/abcdan/chainson/pull/26) in [abcdan/chainson](https://github.com/abcdan/chainson)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
