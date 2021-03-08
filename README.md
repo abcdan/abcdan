@@ -12,11 +12,11 @@ Nex to that, I work on
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/dontlookawayco/cite/pull/26) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-2. 💪 Opened PR [#26](https://github.com/dontlookawayco/cite/pull/26) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-3. 🎉 Merged PR [#25](https://github.com/dontlookawayco/cite/pull/25) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-4. 💪 Opened PR [#25](https://github.com/dontlookawayco/cite/pull/25) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-5. 🎉 Merged PR [#31](https://github.com/abcdan/chainson/pull/31) in [abcdan/chainson](https://github.com/abcdan/chainson)
+1. 🎉 Merged PR [#32](https://github.com/abcdan/chainson/pull/32) in [abcdan/chainson](https://github.com/abcdan/chainson)
+2. 🎉 Merged PR [#33](https://github.com/abcdan/chainson/pull/33) in [abcdan/chainson](https://github.com/abcdan/chainson)
+3. 🎉 Merged PR [#26](https://github.com/dontlookawayco/cite/pull/26) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+4. 💪 Opened PR [#26](https://github.com/dontlookawayco/cite/pull/26) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+5. 🎉 Merged PR [#25](https://github.com/dontlookawayco/cite/pull/25) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
