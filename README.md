@@ -12,11 +12,11 @@ Nex to that, I work on
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#34](https://github.com/abcdan/chainson/issues/34) in [abcdan/chainson](https://github.com/abcdan/chainson)
-2. 🗣 Commented on [#34](https://github.com/abcdan/chainson/issues/34) in [abcdan/chainson](https://github.com/abcdan/chainson)
+1. ❗️ Opened issue [#35](https://github.com/abcdan/chainson/issues/35) in [abcdan/chainson](https://github.com/abcdan/chainson)
+2. ❗️ Closed issue [#34](https://github.com/abcdan/chainson/issues/34) in [abcdan/chainson](https://github.com/abcdan/chainson)
 3. 🗣 Commented on [#34](https://github.com/abcdan/chainson/issues/34) in [abcdan/chainson](https://github.com/abcdan/chainson)
-4. 🎉 Merged PR [#27](https://github.com/dontlookawayco/cite/pull/27) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-5. 🗣 Commented on [#27](https://github.com/dontlookawayco/cite/issues/27) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+4. 🗣 Commented on [#34](https://github.com/abcdan/chainson/issues/34) in [abcdan/chainson](https://github.com/abcdan/chainson)
+5. 🎉 Merged PR [#27](https://github.com/dontlookawayco/cite/pull/27) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
