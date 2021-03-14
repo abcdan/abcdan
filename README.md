@@ -10,6 +10,8 @@ Nex to that, I work on
 - [EasyTickets](https://easytickets.xyz) once in a blue moon;
 - A lot of one day projects.
 
+For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/projects)
+
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#34](https://github.com/dontlookawayco/cite/pull/34) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
