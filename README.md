@@ -7,6 +7,7 @@ I'm currently heavily working on a library called [Chainson](https://github.com/
 
 Nex to that, I work on
 - [file.coffee](https://file.coffee) from time to time;
+- [cite.party](https://cite.party) for school + hobby;
 - [EasyTickets](https://easytickets.xyz) once in a blue moon;
 - A lot of one day projects.
 
