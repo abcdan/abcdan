@@ -14,11 +14,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/dontlookawayco/cite/pull/38) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-2. 🎉 Merged PR [#40](https://github.com/dontlookawayco/cite/pull/40) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-3. 💪 Opened PR [#40](https://github.com/dontlookawayco/cite/pull/40) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-4. 🎉 Merged PR [#39](https://github.com/dontlookawayco/cite/pull/39) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-5. 💪 Opened PR [#39](https://github.com/dontlookawayco/cite/pull/39) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+1. 🎉 Merged PR [#41](https://github.com/dontlookawayco/cite/pull/41) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+2. 💪 Opened PR [#41](https://github.com/dontlookawayco/cite/pull/41) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+3. 🎉 Merged PR [#38](https://github.com/dontlookawayco/cite/pull/38) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+4. 🎉 Merged PR [#40](https://github.com/dontlookawayco/cite/pull/40) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+5. 💪 Opened PR [#40](https://github.com/dontlookawayco/cite/pull/40) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
