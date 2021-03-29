@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/lukasvdberk/hacker-news-improved/issues/1) in [lukasvdberk/hacker-news-improved](https://github.com/lukasvdberk/hacker-news-improved)
-2. 🎉 Merged PR [#52](https://github.com/dontlookawayco/cite/pull/52) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-3. 💪 Opened PR [#52](https://github.com/dontlookawayco/cite/pull/52) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-4. 🎉 Merged PR [#46](https://github.com/dontlookawayco/cite/pull/46) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-5. 💪 Opened PR [#46](https://github.com/dontlookawayco/cite/pull/46) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+1. 🗣 Commented on [#1](https://github.com/lukasvdberk/hacker-news-improved/issues/1) in [lukasvdberk/hacker-news-improved](https://github.com/lukasvdberk/hacker-news-improved)
+2. ❗️ Opened issue [#1](https://github.com/lukasvdberk/hacker-news-improved/issues/1) in [lukasvdberk/hacker-news-improved](https://github.com/lukasvdberk/hacker-news-improved)
+3. 🎉 Merged PR [#52](https://github.com/dontlookawayco/cite/pull/52) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+4. 💪 Opened PR [#52](https://github.com/dontlookawayco/cite/pull/52) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+5. 🎉 Merged PR [#46](https://github.com/dontlookawayco/cite/pull/46) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
