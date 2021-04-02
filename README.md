@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/dontlookawayco/cite/pull/57) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-2. 🗣 Commented on [#1](https://github.com/lukasvdberk/hacker-news-improved/issues/1) in [lukasvdberk/hacker-news-improved](https://github.com/lukasvdberk/hacker-news-improved)
-3. ❗️ Opened issue [#1](https://github.com/lukasvdberk/hacker-news-improved/issues/1) in [lukasvdberk/hacker-news-improved](https://github.com/lukasvdberk/hacker-news-improved)
-4. 🎉 Merged PR [#52](https://github.com/dontlookawayco/cite/pull/52) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-5. 💪 Opened PR [#52](https://github.com/dontlookawayco/cite/pull/52) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+1. 🎉 Merged PR [#46](https://github.com/abcdan/chainson/pull/46) in [abcdan/chainson](https://github.com/abcdan/chainson)
+2. 🎉 Merged PR [#44](https://github.com/abcdan/chainson/pull/44) in [abcdan/chainson](https://github.com/abcdan/chainson)
+3. 🎉 Merged PR [#43](https://github.com/abcdan/chainson/pull/43) in [abcdan/chainson](https://github.com/abcdan/chainson)
+4. 🎉 Merged PR [#41](https://github.com/abcdan/chainson/pull/41) in [abcdan/chainson](https://github.com/abcdan/chainson)
+5. 🎉 Merged PR [#57](https://github.com/dontlookawayco/cite/pull/57) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
