@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AjobK/IPOSE-balie/pull/1) in [AjobK/IPOSE-balie](https://github.com/AjobK/IPOSE-balie)
-2. 🎉 Merged PR [#24](https://github.com/dontlookawayco/cite/pull/24) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-3. 🎉 Merged PR [#55](https://github.com/dontlookawayco/cite/pull/55) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-4. 🗣 Commented on [#24](https://github.com/dontlookawayco/cite/issues/24) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-5. 🎉 Merged PR [#48](https://github.com/dontlookawayco/cite/pull/48) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+1. 🎉 Merged PR [#62](https://github.com/dontlookawayco/cite/pull/62) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+2. 💪 Opened PR [#1](https://github.com/AjobK/IPOSE-balie/pull/1) in [AjobK/IPOSE-balie](https://github.com/AjobK/IPOSE-balie)
+3. 🎉 Merged PR [#24](https://github.com/dontlookawayco/cite/pull/24) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+4. 🎉 Merged PR [#55](https://github.com/dontlookawayco/cite/pull/55) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+5. 🗣 Commented on [#24](https://github.com/dontlookawayco/cite/issues/24) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
