@@ -11,7 +11,7 @@ Nex to that, I work on
 - [EasyTickets](https://easytickets.xyz) once in a blue moon;
 - A lot of one day projects.
 
-For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/projects)
+For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/projects). Also for more information about me.
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
