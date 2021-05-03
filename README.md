@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1478](https://github.com/EddieHubCommunity/support/issues/1478) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#56](https://github.com/abcdan/chainson/pull/56) in [abcdan/chainson](https://github.com/abcdan/chainson)
-3. 🎉 Merged PR [#58](https://github.com/abcdan/chainson/pull/58) in [abcdan/chainson](https://github.com/abcdan/chainson)
-4. 🎉 Merged PR [#55](https://github.com/abcdan/chainson/pull/55) in [abcdan/chainson](https://github.com/abcdan/chainson)
-5. ❌ Closed PR [#31](https://github.com/dontlookawayco/cite/pull/31) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+1. 🗣 Commented on [#1478](https://github.com/EddieHubCommunity/support/issues/1478) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Opened issue [#1478](https://github.com/EddieHubCommunity/support/issues/1478) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🎉 Merged PR [#56](https://github.com/abcdan/chainson/pull/56) in [abcdan/chainson](https://github.com/abcdan/chainson)
+4. 🎉 Merged PR [#58](https://github.com/abcdan/chainson/pull/58) in [abcdan/chainson](https://github.com/abcdan/chainson)
+5. 🎉 Merged PR [#55](https://github.com/abcdan/chainson/pull/55) in [abcdan/chainson](https://github.com/abcdan/chainson)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
