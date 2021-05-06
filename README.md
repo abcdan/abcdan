@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#347](https://github.com/ShareX/CustomUploaders/pull/347) in [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders)
-2. ❗️ Opened issue [#6](https://github.com/filecoffee/issues/issues/6) in [filecoffee/issues](https://github.com/filecoffee/issues)
-3. 🗣 Commented on [#5](https://github.com/filecoffee/issues/issues/5) in [filecoffee/issues](https://github.com/filecoffee/issues)
-4. 🗣 Commented on [#3](https://github.com/filecoffee/issues/issues/3) in [filecoffee/issues](https://github.com/filecoffee/issues)
-5. 🗣 Commented on [#2](https://github.com/filecoffee/issues/issues/2) in [filecoffee/issues](https://github.com/filecoffee/issues)
+1. ❗️ Closed issue [#6](https://github.com/filecoffee/issues/issues/6) in [filecoffee/issues](https://github.com/filecoffee/issues)
+2. 🗣 Commented on [#6](https://github.com/filecoffee/issues/issues/6) in [filecoffee/issues](https://github.com/filecoffee/issues)
+3. 💪 Opened PR [#347](https://github.com/ShareX/CustomUploaders/pull/347) in [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders)
+4. ❗️ Opened issue [#6](https://github.com/filecoffee/issues/issues/6) in [filecoffee/issues](https://github.com/filecoffee/issues)
+5. 🗣 Commented on [#5](https://github.com/filecoffee/issues/issues/5) in [filecoffee/issues](https://github.com/filecoffee/issues)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
