@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/filecoffee/issues/issues/3) in [filecoffee/issues](https://github.com/filecoffee/issues)
-2. 🗣 Commented on [#2](https://github.com/filecoffee/issues/issues/2) in [filecoffee/issues](https://github.com/filecoffee/issues)
-3. 🗣 Commented on [#1](https://github.com/filecoffee/issues/issues/1) in [filecoffee/issues](https://github.com/filecoffee/issues)
-4. ❗️ Closed issue [#4](https://github.com/filecoffee/issues/issues/4) in [filecoffee/issues](https://github.com/filecoffee/issues)
-5. 🗣 Commented on [#4](https://github.com/filecoffee/issues/issues/4) in [filecoffee/issues](https://github.com/filecoffee/issues)
+1. ❗️ Opened issue [#6](https://github.com/filecoffee/issues/issues/6) in [filecoffee/issues](https://github.com/filecoffee/issues)
+2. 🗣 Commented on [#5](https://github.com/filecoffee/issues/issues/5) in [filecoffee/issues](https://github.com/filecoffee/issues)
+3. 🗣 Commented on [#3](https://github.com/filecoffee/issues/issues/3) in [filecoffee/issues](https://github.com/filecoffee/issues)
+4. 🗣 Commented on [#2](https://github.com/filecoffee/issues/issues/2) in [filecoffee/issues](https://github.com/filecoffee/issues)
+5. 🗣 Commented on [#1](https://github.com/filecoffee/issues/issues/1) in [filecoffee/issues](https://github.com/filecoffee/issues)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
