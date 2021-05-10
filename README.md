@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/filecoffee/proxy/issues/9) in [filecoffee/proxy](https://github.com/filecoffee/proxy)
-2. 🗣 Commented on [#9](https://github.com/filecoffee/proxy/issues/9) in [filecoffee/proxy](https://github.com/filecoffee/proxy)
-3. 🗣 Commented on [#9](https://github.com/filecoffee/proxy/issues/9) in [filecoffee/proxy](https://github.com/filecoffee/proxy)
-4. 🗣 Commented on [#9](https://github.com/filecoffee/proxy/issues/9) in [filecoffee/proxy](https://github.com/filecoffee/proxy)
-5. 🗣 Commented on [#5](https://github.com/filecoffee/issues/issues/5) in [filecoffee/issues](https://github.com/filecoffee/issues)
+1. 🎉 Merged PR [#93](https://github.com/dontlookawayco/cite/pull/93) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+2. 🎉 Merged PR [#92](https://github.com/dontlookawayco/cite/pull/92) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+3. 🎉 Merged PR [#90](https://github.com/dontlookawayco/cite/pull/90) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+4. 🎉 Merged PR [#88](https://github.com/dontlookawayco/cite/pull/88) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+5. 🎉 Merged PR [#86](https://github.com/dontlookawayco/cite/pull/86) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
