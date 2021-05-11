@@ -15,10 +15,10 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/lukasvdberk/spotify_song_changer_cli/issues/6) in [lukasvdberk/spotify_song_changer_cli](https://github.com/lukasvdberk/spotify_song_changer_cli)
-2. 🗣 Commented on [#6](https://github.com/lukasvdberk/spotify_song_changer_cli/issues/6) in [lukasvdberk/spotify_song_changer_cli](https://github.com/lukasvdberk/spotify_song_changer_cli)
-3. 🗣 Commented on [#1](https://github.com/lukasvdberk/spotify_song_changer_cli/issues/1) in [lukasvdberk/spotify_song_changer_cli](https://github.com/lukasvdberk/spotify_song_changer_cli)
-4. 🗣 Commented on [#1](https://github.com/lukasvdberk/spotify_song_changer_cli/issues/1) in [lukasvdberk/spotify_song_changer_cli](https://github.com/lukasvdberk/spotify_song_changer_cli)
+1. 🎉 Merged PR [#8](https://github.com/abcdan/projects/pull/8) in [abcdan/projects](https://github.com/abcdan/projects)
+2. 💪 Opened PR [#8](https://github.com/abcdan/projects/pull/8) in [abcdan/projects](https://github.com/abcdan/projects)
+3. 🗣 Commented on [#6](https://github.com/lukasvdberk/spotify_song_changer_cli/issues/6) in [lukasvdberk/spotify_song_changer_cli](https://github.com/lukasvdberk/spotify_song_changer_cli)
+4. 🗣 Commented on [#6](https://github.com/lukasvdberk/spotify_song_changer_cli/issues/6) in [lukasvdberk/spotify_song_changer_cli](https://github.com/lukasvdberk/spotify_song_changer_cli)
 5. 🗣 Commented on [#1](https://github.com/lukasvdberk/spotify_song_changer_cli/issues/1) in [lukasvdberk/spotify_song_changer_cli](https://github.com/lukasvdberk/spotify_song_changer_cli)
 <!--END_SECTION:activity-->
 
