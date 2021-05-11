@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/abcdan/projects/issues/2) in [abcdan/projects](https://github.com/abcdan/projects)
-2. 🎉 Merged PR [#95](https://github.com/dontlookawayco/cite/pull/95) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-3. 🎉 Merged PR [#94](https://github.com/dontlookawayco/cite/pull/94) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-4. 🎉 Merged PR [#93](https://github.com/dontlookawayco/cite/pull/93) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
-5. 🎉 Merged PR [#92](https://github.com/dontlookawayco/cite/pull/92) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+1. ❗️ Opened issue [#1](https://github.com/lukasvdberk/ServerSightAPI/issues/1) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
+2. ❗️ Closed issue [#2](https://github.com/abcdan/projects/issues/2) in [abcdan/projects](https://github.com/abcdan/projects)
+3. 🎉 Merged PR [#95](https://github.com/dontlookawayco/cite/pull/95) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+4. 🎉 Merged PR [#94](https://github.com/dontlookawayco/cite/pull/94) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
+5. 🎉 Merged PR [#93](https://github.com/dontlookawayco/cite/pull/93) in [dontlookawayco/cite](https://github.com/dontlookawayco/cite)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
