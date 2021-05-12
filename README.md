@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/sonofice/bashinfoscript/issues/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
-2. 🗣 Commented on [#2](https://github.com/sonofice/bashinfoscript/issues/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
+1. ❗️ Opened issue [#1](https://github.com/subhadip-tier5/laratest/issues/1) in [subhadip-tier5/laratest](https://github.com/subhadip-tier5/laratest)
+2. ❗️ Opened issue [#1](https://github.com/shorelineai/ToolsTest/issues/1) in [shorelineai/ToolsTest](https://github.com/shorelineai/ToolsTest)
 3. 🗣 Commented on [#2](https://github.com/sonofice/bashinfoscript/issues/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
 4. 🗣 Commented on [#2](https://github.com/sonofice/bashinfoscript/issues/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
-5. 💪 Opened PR [#2](https://github.com/sonofice/bashinfoscript/pull/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
+5. 🗣 Commented on [#2](https://github.com/sonofice/bashinfoscript/issues/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
