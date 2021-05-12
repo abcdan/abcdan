@@ -18,8 +18,8 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 1. 🗣 Commented on [#2](https://github.com/sonofice/bashinfoscript/issues/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
 2. 🗣 Commented on [#2](https://github.com/sonofice/bashinfoscript/issues/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
 3. 🗣 Commented on [#2](https://github.com/sonofice/bashinfoscript/issues/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
-4. 💪 Opened PR [#2](https://github.com/sonofice/bashinfoscript/pull/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
-5. 🎉 Merged PR [#2](https://github.com/abcdan/ipwrc/pull/2) in [abcdan/ipwrc](https://github.com/abcdan/ipwrc)
+4. 🗣 Commented on [#2](https://github.com/sonofice/bashinfoscript/issues/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
+5. 💪 Opened PR [#2](https://github.com/sonofice/bashinfoscript/pull/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
