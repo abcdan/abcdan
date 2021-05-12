@@ -15,10 +15,10 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/subhadip-tier5/laratest/issues/1) in [subhadip-tier5/laratest](https://github.com/subhadip-tier5/laratest)
-2. ❗️ Opened issue [#1](https://github.com/shorelineai/ToolsTest/issues/1) in [shorelineai/ToolsTest](https://github.com/shorelineai/ToolsTest)
-3. 🗣 Commented on [#2](https://github.com/sonofice/bashinfoscript/issues/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
-4. 🗣 Commented on [#2](https://github.com/sonofice/bashinfoscript/issues/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
+1. 🎉 Merged PR [#12](https://github.com/abcdan/projects/pull/12) in [abcdan/projects](https://github.com/abcdan/projects)
+2. 🗣 Commented on [#12](https://github.com/abcdan/projects/issues/12) in [abcdan/projects](https://github.com/abcdan/projects)
+3. ❗️ Opened issue [#1](https://github.com/subhadip-tier5/laratest/issues/1) in [subhadip-tier5/laratest](https://github.com/subhadip-tier5/laratest)
+4. ❗️ Opened issue [#1](https://github.com/shorelineai/ToolsTest/issues/1) in [shorelineai/ToolsTest](https://github.com/shorelineai/ToolsTest)
 5. 🗣 Commented on [#2](https://github.com/sonofice/bashinfoscript/issues/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
 <!--END_SECTION:activity-->
 
