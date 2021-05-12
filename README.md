@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/abcdan/ipwrc/pull/2) in [abcdan/ipwrc](https://github.com/abcdan/ipwrc)
-2. 🎉 Merged PR [#11](https://github.com/abcdan/projects/pull/11) in [abcdan/projects](https://github.com/abcdan/projects)
-3. 🗣 Commented on [#11](https://github.com/abcdan/projects/issues/11) in [abcdan/projects](https://github.com/abcdan/projects)
-4. 🎉 Merged PR [#10](https://github.com/abcdan/projects/pull/10) in [abcdan/projects](https://github.com/abcdan/projects)
-5. 💪 Opened PR [#10](https://github.com/abcdan/projects/pull/10) in [abcdan/projects](https://github.com/abcdan/projects)
+1. 🗣 Commented on [#2](https://github.com/sonofice/bashinfoscript/issues/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
+2. 🗣 Commented on [#2](https://github.com/sonofice/bashinfoscript/issues/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
+3. 🗣 Commented on [#2](https://github.com/sonofice/bashinfoscript/issues/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
+4. 💪 Opened PR [#2](https://github.com/sonofice/bashinfoscript/pull/2) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
+5. 🎉 Merged PR [#2](https://github.com/abcdan/ipwrc/pull/2) in [abcdan/ipwrc](https://github.com/abcdan/ipwrc)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
