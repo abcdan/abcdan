@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/fushra/meml/issues/4) in [fushra/meml](https://github.com/fushra/meml)
-2. 🗣 Commented on [#6](https://github.com/fushra/meml/issues/6) in [fushra/meml](https://github.com/fushra/meml)
+1. ❗️ Opened issue [#2](https://github.com/Lreneee/Portfolio/issues/2) in [Lreneee/Portfolio](https://github.com/Lreneee/Portfolio)
+2. 🗣 Commented on [#1](https://github.com/Lreneee/Portfolio/issues/1) in [Lreneee/Portfolio](https://github.com/Lreneee/Portfolio)
 3. 🗣 Commented on [#4](https://github.com/fushra/meml/issues/4) in [fushra/meml](https://github.com/fushra/meml)
-4. 🗣 Commented on [#3](https://github.com/sonofice/bashinfoscript/issues/3) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
-5. ❗️ Opened issue [#3](https://github.com/sonofice/bashinfoscript/issues/3) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
+4. 🗣 Commented on [#6](https://github.com/fushra/meml/issues/6) in [fushra/meml](https://github.com/fushra/meml)
+5. 🗣 Commented on [#4](https://github.com/fushra/meml/issues/4) in [fushra/meml](https://github.com/fushra/meml)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
