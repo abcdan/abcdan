@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/filecoffee/issues/issues/5) in [filecoffee/issues](https://github.com/filecoffee/issues)
-2. ❗️ Closed issue [#7](https://github.com/filecoffee/issues/issues/7) in [filecoffee/issues](https://github.com/filecoffee/issues)
-3. 🗣 Commented on [#7](https://github.com/filecoffee/issues/issues/7) in [filecoffee/issues](https://github.com/filecoffee/issues)
-4. ❗️ Opened issue [#2](https://github.com/Lreneee/Portfolio/issues/2) in [Lreneee/Portfolio](https://github.com/Lreneee/Portfolio)
-5. 🗣 Commented on [#1](https://github.com/Lreneee/Portfolio/issues/1) in [Lreneee/Portfolio](https://github.com/Lreneee/Portfolio)
+1. 💪 Opened PR [#2](https://github.com/lukasvdberk/ServerSightPostScript/pull/2) in [lukasvdberk/ServerSightPostScript](https://github.com/lukasvdberk/ServerSightPostScript)
+2. 💪 Opened PR [#3](https://github.com/lukasvdberk/ServerSightAPI/pull/3) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
+3. 💪 Opened PR [#2](https://github.com/lukasvdberk/ServerSightFrontend/pull/2) in [lukasvdberk/ServerSightFrontend](https://github.com/lukasvdberk/ServerSightFrontend)
+4. 💪 Opened PR [#2](https://github.com/lukasvdberk/ServerSightAPI/pull/2) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
+5. 💪 Opened PR [#1](https://github.com/lukasvdberk/ServerSightPostScript/pull/1) in [lukasvdberk/ServerSightPostScript](https://github.com/lukasvdberk/ServerSightPostScript)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
