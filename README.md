@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/lukasvdberk/ServerSightPostScript/pull/2) in [lukasvdberk/ServerSightPostScript](https://github.com/lukasvdberk/ServerSightPostScript)
-2. 💪 Opened PR [#3](https://github.com/lukasvdberk/ServerSightAPI/pull/3) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
-3. 💪 Opened PR [#2](https://github.com/lukasvdberk/ServerSightFrontend/pull/2) in [lukasvdberk/ServerSightFrontend](https://github.com/lukasvdberk/ServerSightFrontend)
-4. 💪 Opened PR [#2](https://github.com/lukasvdberk/ServerSightAPI/pull/2) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
-5. 💪 Opened PR [#1](https://github.com/lukasvdberk/ServerSightPostScript/pull/1) in [lukasvdberk/ServerSightPostScript](https://github.com/lukasvdberk/ServerSightPostScript)
+1. 🗣 Commented on [#1](https://github.com/sonofice/telegram-keylogger/issues/1) in [sonofice/telegram-keylogger](https://github.com/sonofice/telegram-keylogger)
+2. 💪 Opened PR [#2](https://github.com/lukasvdberk/ServerSightPostScript/pull/2) in [lukasvdberk/ServerSightPostScript](https://github.com/lukasvdberk/ServerSightPostScript)
+3. 💪 Opened PR [#3](https://github.com/lukasvdberk/ServerSightAPI/pull/3) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
+4. 💪 Opened PR [#2](https://github.com/lukasvdberk/ServerSightFrontend/pull/2) in [lukasvdberk/ServerSightFrontend](https://github.com/lukasvdberk/ServerSightFrontend)
+5. 💪 Opened PR [#2](https://github.com/lukasvdberk/ServerSightAPI/pull/2) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
