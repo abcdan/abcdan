@@ -16,10 +16,10 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/Permanently/BedwarsBeggars/issues/5) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
-2. 💪 Opened PR [#5](https://github.com/Permanently/BedwarsBeggars/pull/5) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
-3. 🗣 Commented on [#1](https://github.com/sonofice/telegram-keylogger/issues/1) in [sonofice/telegram-keylogger](https://github.com/sonofice/telegram-keylogger)
-4. 💪 Opened PR [#2](https://github.com/lukasvdberk/ServerSightPostScript/pull/2) in [lukasvdberk/ServerSightPostScript](https://github.com/lukasvdberk/ServerSightPostScript)
-5. 💪 Opened PR [#3](https://github.com/lukasvdberk/ServerSightAPI/pull/3) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
+2. 🗣 Commented on [#5](https://github.com/Permanently/BedwarsBeggars/issues/5) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
+3. 💪 Opened PR [#5](https://github.com/Permanently/BedwarsBeggars/pull/5) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
+4. 🗣 Commented on [#1](https://github.com/sonofice/telegram-keylogger/issues/1) in [sonofice/telegram-keylogger](https://github.com/sonofice/telegram-keylogger)
+5. 💪 Opened PR [#2](https://github.com/lukasvdberk/ServerSightPostScript/pull/2) in [lukasvdberk/ServerSightPostScript](https://github.com/lukasvdberk/ServerSightPostScript)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
