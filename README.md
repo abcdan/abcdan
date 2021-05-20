@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/lukasvdberk/YouDrank/issues/1) in [lukasvdberk/YouDrank](https://github.com/lukasvdberk/YouDrank)
-2. 🗣 Commented on [#3](https://github.com/sonofice/bashinfoscript/issues/3) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
-3. 🗣 Commented on [#6](https://github.com/fingerprintjs/external-protocol-flooding/issues/6) in [fingerprintjs/external-protocol-flooding](https://github.com/fingerprintjs/external-protocol-flooding)
-4. 🗣 Commented on [#5](https://github.com/Permanently/BedwarsBeggars/issues/5) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
-5. 🗣 Commented on [#5](https://github.com/Permanently/BedwarsBeggars/issues/5) in [Permanently/BedwarsBeggars](https://github.com/Permanently/BedwarsBeggars)
+1. ❗️ Opened issue [#3](https://github.com/lukasvdberk/ServerSightFrontend/issues/3) in [lukasvdberk/ServerSightFrontend](https://github.com/lukasvdberk/ServerSightFrontend)
+2. 🗣 Commented on [#14](https://github.com/lukasvdberk/portfolio-site/issues/14) in [lukasvdberk/portfolio-site](https://github.com/lukasvdberk/portfolio-site)
+3. ❗️ Opened issue [#14](https://github.com/lukasvdberk/portfolio-site/issues/14) in [lukasvdberk/portfolio-site](https://github.com/lukasvdberk/portfolio-site)
+4. ❗️ Opened issue [#1](https://github.com/lukasvdberk/YouDrank/issues/1) in [lukasvdberk/YouDrank](https://github.com/lukasvdberk/YouDrank)
+5. 🗣 Commented on [#3](https://github.com/sonofice/bashinfoscript/issues/3) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
