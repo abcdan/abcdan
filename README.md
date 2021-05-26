@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/lukasvdberk/ServerSightAPI/issues/6) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
-2. 🗣 Commented on [#1](https://github.com/lukasvdberk/ServerSightAPI/issues/1) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
-3. ❗️ Opened issue [#3](https://github.com/lukasvdberk/ServerSightFrontend/issues/3) in [lukasvdberk/ServerSightFrontend](https://github.com/lukasvdberk/ServerSightFrontend)
-4. 🗣 Commented on [#14](https://github.com/lukasvdberk/portfolio-site/issues/14) in [lukasvdberk/portfolio-site](https://github.com/lukasvdberk/portfolio-site)
-5. ❗️ Opened issue [#14](https://github.com/lukasvdberk/portfolio-site/issues/14) in [lukasvdberk/portfolio-site](https://github.com/lukasvdberk/portfolio-site)
+1. ❗️ Opened issue [#2](https://github.com/lukasvdberk/tintern-ship-android-app/issues/2) in [lukasvdberk/tintern-ship-android-app](https://github.com/lukasvdberk/tintern-ship-android-app)
+2. ❗️ Opened issue [#1](https://github.com/lukasvdberk/tintern-ship-android-app/issues/1) in [lukasvdberk/tintern-ship-android-app](https://github.com/lukasvdberk/tintern-ship-android-app)
+3. ❗️ Opened issue [#1](https://github.com/lukasvdberk/tintern-ship-backend/issues/1) in [lukasvdberk/tintern-ship-backend](https://github.com/lukasvdberk/tintern-ship-backend)
+4. 🗣 Commented on [#6](https://github.com/lukasvdberk/ServerSightAPI/issues/6) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
+5. 🗣 Commented on [#1](https://github.com/lukasvdberk/ServerSightAPI/issues/1) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
