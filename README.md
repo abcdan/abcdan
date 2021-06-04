@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/fingerprintjs/external-protocol-flooding/issues/6) in [fingerprintjs/external-protocol-flooding](https://github.com/fingerprintjs/external-protocol-flooding)
-2. 🗣 Commented on [#3](https://github.com/sonofice/bashinfoscript/issues/3) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
-3. ❗️ Opened issue [#6](https://github.com/lukasvdberk/tintern-ship-android-app/issues/6) in [lukasvdberk/tintern-ship-android-app](https://github.com/lukasvdberk/tintern-ship-android-app)
-4. ❗️ Opened issue [#5](https://github.com/lukasvdberk/tintern-ship-android-app/issues/5) in [lukasvdberk/tintern-ship-android-app](https://github.com/lukasvdberk/tintern-ship-android-app)
-5. ❗️ Opened issue [#4](https://github.com/lukasvdberk/tintern-ship-android-app/issues/4) in [lukasvdberk/tintern-ship-android-app](https://github.com/lukasvdberk/tintern-ship-android-app)
+1. ❗️ Opened issue [#3](https://github.com/daanbreur/stream-overlay/issues/3) in [daanbreur/stream-overlay](https://github.com/daanbreur/stream-overlay)
+2. 🗣 Commented on [#6](https://github.com/fingerprintjs/external-protocol-flooding/issues/6) in [fingerprintjs/external-protocol-flooding](https://github.com/fingerprintjs/external-protocol-flooding)
+3. 🗣 Commented on [#3](https://github.com/sonofice/bashinfoscript/issues/3) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
+4. ❗️ Opened issue [#6](https://github.com/lukasvdberk/tintern-ship-android-app/issues/6) in [lukasvdberk/tintern-ship-android-app](https://github.com/lukasvdberk/tintern-ship-android-app)
+5. ❗️ Opened issue [#5](https://github.com/lukasvdberk/tintern-ship-android-app/issues/5) in [lukasvdberk/tintern-ship-android-app](https://github.com/lukasvdberk/tintern-ship-android-app)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
