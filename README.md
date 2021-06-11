@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/sonofice/bashinfoscript/issues/3) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
-2. 🗣 Commented on [#3](https://github.com/sonofice/bashinfoscript/issues/3) in [sonofice/bashinfoscript](https://github.com/sonofice/bashinfoscript)
-3. 🗣 Commented on [#3](https://github.com/abcdan/ipwrc/issues/3) in [abcdan/ipwrc](https://github.com/abcdan/ipwrc)
-4. 🗣 Commented on [#3](https://github.com/daanbreur/stream-overlay/issues/3) in [daanbreur/stream-overlay](https://github.com/daanbreur/stream-overlay)
-5. ❗️ Opened issue [#3](https://github.com/daanbreur/stream-overlay/issues/3) in [daanbreur/stream-overlay](https://github.com/daanbreur/stream-overlay)
+1. 🗣 Commented on [#3](https://github.com/abcdan/ipwrc/issues/3) in [abcdan/ipwrc](https://github.com/abcdan/ipwrc)
+2. ❗️ Opened issue [#2](https://github.com/lukasvdberk/IPRWC-webshop/issues/2) in [lukasvdberk/IPRWC-webshop](https://github.com/lukasvdberk/IPRWC-webshop)
+3. 🗣 Commented on [#1](https://github.com/lukasvdberk/ServerSightAPI/issues/1) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
+4. 🗣 Commented on [#1](https://github.com/lukasvdberk/ServerSightAPI/issues/1) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
+5. ❗️ Opened issue [#8](https://github.com/lukasvdberk/ServerSightAPI/issues/8) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
