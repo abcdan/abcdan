@@ -15,10 +15,10 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/lukasvdberk/tintern-ship-backend/issues/14) in [lukasvdberk/tintern-ship-backend](https://github.com/lukasvdberk/tintern-ship-backend)
-2. 🗣 Commented on [#3](https://github.com/abcdan/ipwrc/issues/3) in [abcdan/ipwrc](https://github.com/abcdan/ipwrc)
-3. ❗️ Opened issue [#2](https://github.com/lukasvdberk/IPRWC-webshop/issues/2) in [lukasvdberk/IPRWC-webshop](https://github.com/lukasvdberk/IPRWC-webshop)
-4. 🗣 Commented on [#1](https://github.com/lukasvdberk/ServerSightAPI/issues/1) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
+1. 🗣 Commented on [#1](https://github.com/KeithMarex/IKMEDT/issues/1) in [KeithMarex/IKMEDT](https://github.com/KeithMarex/IKMEDT)
+2. 🗣 Commented on [#14](https://github.com/lukasvdberk/tintern-ship-backend/issues/14) in [lukasvdberk/tintern-ship-backend](https://github.com/lukasvdberk/tintern-ship-backend)
+3. 🗣 Commented on [#3](https://github.com/abcdan/ipwrc/issues/3) in [abcdan/ipwrc](https://github.com/abcdan/ipwrc)
+4. ❗️ Opened issue [#2](https://github.com/lukasvdberk/IPRWC-webshop/issues/2) in [lukasvdberk/IPRWC-webshop](https://github.com/lukasvdberk/IPRWC-webshop)
 5. 🗣 Commented on [#1](https://github.com/lukasvdberk/ServerSightAPI/issues/1) in [lukasvdberk/ServerSightAPI](https://github.com/lukasvdberk/ServerSightAPI)
 <!--END_SECTION:activity-->
 
