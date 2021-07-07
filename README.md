@@ -15,9 +15,9 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/lukasvdberk/spotify_song_changer_cli/issues/8) in [lukasvdberk/spotify_song_changer_cli](https://github.com/lukasvdberk/spotify_song_changer_cli)
-2. 🗣 Commented on [#6](https://github.com/lukasvdberk/spotify_song_changer_cli/issues/6) in [lukasvdberk/spotify_song_changer_cli](https://github.com/lukasvdberk/spotify_song_changer_cli)
-3. 🗣 Commented on [#1](https://github.com/KeithMarex/IKMEDT/issues/1) in [KeithMarex/IKMEDT](https://github.com/KeithMarex/IKMEDT)
+1. ❗️ Opened issue [#477](https://github.com/WesleyKlop/vote-system/issues/477) in [WesleyKlop/vote-system](https://github.com/WesleyKlop/vote-system)
+2. ❗️ Opened issue [#8](https://github.com/lukasvdberk/spotify_song_changer_cli/issues/8) in [lukasvdberk/spotify_song_changer_cli](https://github.com/lukasvdberk/spotify_song_changer_cli)
+3. 🗣 Commented on [#6](https://github.com/lukasvdberk/spotify_song_changer_cli/issues/6) in [lukasvdberk/spotify_song_changer_cli](https://github.com/lukasvdberk/spotify_song_changer_cli)
 4. 🗣 Commented on [#1](https://github.com/KeithMarex/IKMEDT/issues/1) in [KeithMarex/IKMEDT](https://github.com/KeithMarex/IKMEDT)
 5. 🗣 Commented on [#1](https://github.com/KeithMarex/IKMEDT/issues/1) in [KeithMarex/IKMEDT](https://github.com/KeithMarex/IKMEDT)
 <!--END_SECTION:activity-->
