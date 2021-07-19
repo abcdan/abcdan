@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#478](https://github.com/WesleyKlop/vote-system/issues/478) in [WesleyKlop/vote-system](https://github.com/WesleyKlop/vote-system)
-2. ❗️ Opened issue [#477](https://github.com/WesleyKlop/vote-system/issues/477) in [WesleyKlop/vote-system](https://github.com/WesleyKlop/vote-system)
-3. ❗️ Opened issue [#8](https://github.com/lukasvdberk/spotify_song_changer_cli/issues/8) in [lukasvdberk/spotify_song_changer_cli](https://github.com/lukasvdberk/spotify_song_changer_cli)
-4. 🗣 Commented on [#6](https://github.com/lukasvdberk/spotify_song_changer_cli/issues/6) in [lukasvdberk/spotify_song_changer_cli](https://github.com/lukasvdberk/spotify_song_changer_cli)
-5. 🗣 Commented on [#1](https://github.com/KeithMarex/IKMEDT/issues/1) in [KeithMarex/IKMEDT](https://github.com/KeithMarex/IKMEDT)
+1. 🗣 Commented on [#15](https://github.com/abcdan/projects/issues/15) in [abcdan/projects](https://github.com/abcdan/projects)
+2. ❗️ Opened issue [#478](https://github.com/WesleyKlop/vote-system/issues/478) in [WesleyKlop/vote-system](https://github.com/WesleyKlop/vote-system)
+3. ❗️ Opened issue [#477](https://github.com/WesleyKlop/vote-system/issues/477) in [WesleyKlop/vote-system](https://github.com/WesleyKlop/vote-system)
+4. ❗️ Opened issue [#8](https://github.com/lukasvdberk/spotify_song_changer_cli/issues/8) in [lukasvdberk/spotify_song_changer_cli](https://github.com/lukasvdberk/spotify_song_changer_cli)
+5. 🗣 Commented on [#6](https://github.com/lukasvdberk/spotify_song_changer_cli/issues/6) in [lukasvdberk/spotify_song_changer_cli](https://github.com/lukasvdberk/spotify_song_changer_cli)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
