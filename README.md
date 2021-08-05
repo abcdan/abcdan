@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/abcdan/projects/issues/15) in [abcdan/projects](https://github.com/abcdan/projects)
-2. 🎉 Merged PR [#16](https://github.com/abcdan/projects/pull/16) in [abcdan/projects](https://github.com/abcdan/projects)
+1. 🎉 Merged PR [#17](https://github.com/abcdan/projects/pull/17) in [abcdan/projects](https://github.com/abcdan/projects)
+2. 🗣 Commented on [#17](https://github.com/abcdan/projects/issues/17) in [abcdan/projects](https://github.com/abcdan/projects)
 3. 🗣 Commented on [#15](https://github.com/abcdan/projects/issues/15) in [abcdan/projects](https://github.com/abcdan/projects)
-4. ❗️ Opened issue [#478](https://github.com/WesleyKlop/vote-system/issues/478) in [WesleyKlop/vote-system](https://github.com/WesleyKlop/vote-system)
-5. ❗️ Opened issue [#477](https://github.com/WesleyKlop/vote-system/issues/477) in [WesleyKlop/vote-system](https://github.com/WesleyKlop/vote-system)
+4. 🎉 Merged PR [#16](https://github.com/abcdan/projects/pull/16) in [abcdan/projects](https://github.com/abcdan/projects)
+5. 🗣 Commented on [#15](https://github.com/abcdan/projects/issues/15) in [abcdan/projects](https://github.com/abcdan/projects)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
