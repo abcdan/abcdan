@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/abcdan/projects/pull/17) in [abcdan/projects](https://github.com/abcdan/projects)
-2. 🗣 Commented on [#17](https://github.com/abcdan/projects/issues/17) in [abcdan/projects](https://github.com/abcdan/projects)
-3. 🗣 Commented on [#15](https://github.com/abcdan/projects/issues/15) in [abcdan/projects](https://github.com/abcdan/projects)
-4. 🎉 Merged PR [#16](https://github.com/abcdan/projects/pull/16) in [abcdan/projects](https://github.com/abcdan/projects)
-5. 🗣 Commented on [#15](https://github.com/abcdan/projects/issues/15) in [abcdan/projects](https://github.com/abcdan/projects)
+1. 🗣 Commented on [#4514](https://github.com/tensorflow/tfjs/issues/4514) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
+2. 🎉 Merged PR [#17](https://github.com/abcdan/projects/pull/17) in [abcdan/projects](https://github.com/abcdan/projects)
+3. 🗣 Commented on [#17](https://github.com/abcdan/projects/issues/17) in [abcdan/projects](https://github.com/abcdan/projects)
+4. 🗣 Commented on [#15](https://github.com/abcdan/projects/issues/15) in [abcdan/projects](https://github.com/abcdan/projects)
+5. 🎉 Merged PR [#16](https://github.com/abcdan/projects/pull/16) in [abcdan/projects](https://github.com/abcdan/projects)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
