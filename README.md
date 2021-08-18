@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/NeuroAssassin/Toxic-Cogs/issues/59) in [NeuroAssassin/Toxic-Cogs](https://github.com/NeuroAssassin/Toxic-Cogs)
-2. ❗️ Opened issue [#59](https://github.com/NeuroAssassin/Toxic-Cogs/issues/59) in [NeuroAssassin/Toxic-Cogs](https://github.com/NeuroAssassin/Toxic-Cogs)
-3. 🗣 Commented on [#4514](https://github.com/tensorflow/tfjs/issues/4514) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
-4. 🎉 Merged PR [#17](https://github.com/abcdan/projects/pull/17) in [abcdan/projects](https://github.com/abcdan/projects)
-5. 🗣 Commented on [#17](https://github.com/abcdan/projects/issues/17) in [abcdan/projects](https://github.com/abcdan/projects)
+1. 🎉 Merged PR [#1](https://github.com/nsfw-rest/NSFW-Protection/pull/1) in [nsfw-rest/NSFW-Protection](https://github.com/nsfw-rest/NSFW-Protection)
+2. 🗣 Commented on [#59](https://github.com/NeuroAssassin/Toxic-Cogs/issues/59) in [NeuroAssassin/Toxic-Cogs](https://github.com/NeuroAssassin/Toxic-Cogs)
+3. ❗️ Opened issue [#59](https://github.com/NeuroAssassin/Toxic-Cogs/issues/59) in [NeuroAssassin/Toxic-Cogs](https://github.com/NeuroAssassin/Toxic-Cogs)
+4. 🗣 Commented on [#4514](https://github.com/tensorflow/tfjs/issues/4514) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
+5. 🎉 Merged PR [#17](https://github.com/abcdan/projects/pull/17) in [abcdan/projects](https://github.com/abcdan/projects)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
