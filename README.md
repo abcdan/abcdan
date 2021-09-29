@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4514](https://github.com/tensorflow/tfjs/issues/4514) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
-2. 🎉 Merged PR [#1](https://github.com/nsfw-rest/NSFW-Protection/pull/1) in [nsfw-rest/NSFW-Protection](https://github.com/nsfw-rest/NSFW-Protection)
-3. 🗣 Commented on [#59](https://github.com/NeuroAssassin/Toxic-Cogs/issues/59) in [NeuroAssassin/Toxic-Cogs](https://github.com/NeuroAssassin/Toxic-Cogs)
-4. ❗️ Opened issue [#59](https://github.com/NeuroAssassin/Toxic-Cogs/issues/59) in [NeuroAssassin/Toxic-Cogs](https://github.com/NeuroAssassin/Toxic-Cogs)
-5. 🗣 Commented on [#4514](https://github.com/tensorflow/tfjs/issues/4514) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
+1. 🎉 Merged PR [#118](https://github.com/abcdan/chainson/pull/118) in [abcdan/chainson](https://github.com/abcdan/chainson)
+2. 🎉 Merged PR [#119](https://github.com/abcdan/chainson/pull/119) in [abcdan/chainson](https://github.com/abcdan/chainson)
+3. 🗣 Commented on [#118](https://github.com/abcdan/chainson/issues/118) in [abcdan/chainson](https://github.com/abcdan/chainson)
+4. 🎉 Merged PR [#117](https://github.com/abcdan/chainson/pull/117) in [abcdan/chainson](https://github.com/abcdan/chainson)
+5. 🗣 Commented on [#117](https://github.com/abcdan/chainson/issues/117) in [abcdan/chainson](https://github.com/abcdan/chainson)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
