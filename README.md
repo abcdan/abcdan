@@ -15,10 +15,10 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#303](https://github.com/WeebDev/chibisafe/issues/303) in [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe)
-2. 🗣 Commented on [#103](https://github.com/inabahare/lewd2/issues/103) in [inabahare/lewd2](https://github.com/inabahare/lewd2)
-3. ❗️ Opened issue [#103](https://github.com/inabahare/lewd2/issues/103) in [inabahare/lewd2](https://github.com/inabahare/lewd2)
-4. 🗣 Commented on [#67](https://github.com/minvws/nl-covid19-coronacheck-app-ios/issues/67) in [minvws/nl-covid19-coronacheck-app-ios](https://github.com/minvws/nl-covid19-coronacheck-app-ios)
+1. 🗣 Commented on [#303](https://github.com/WeebDev/chibisafe/issues/303) in [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe)
+2. ❗️ Opened issue [#303](https://github.com/WeebDev/chibisafe/issues/303) in [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe)
+3. 🗣 Commented on [#103](https://github.com/inabahare/lewd2/issues/103) in [inabahare/lewd2](https://github.com/inabahare/lewd2)
+4. ❗️ Opened issue [#103](https://github.com/inabahare/lewd2/issues/103) in [inabahare/lewd2](https://github.com/inabahare/lewd2)
 5. 🗣 Commented on [#67](https://github.com/minvws/nl-covid19-coronacheck-app-ios/issues/67) in [minvws/nl-covid19-coronacheck-app-ios](https://github.com/minvws/nl-covid19-coronacheck-app-ios)
 <!--END_SECTION:activity-->
 
