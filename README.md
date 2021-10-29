@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#103](https://github.com/inabahare/lewd2/issues/103) in [inabahare/lewd2](https://github.com/inabahare/lewd2)
-2. 🗣 Commented on [#67](https://github.com/minvws/nl-covid19-coronacheck-app-ios/issues/67) in [minvws/nl-covid19-coronacheck-app-ios](https://github.com/minvws/nl-covid19-coronacheck-app-ios)
+1. 🗣 Commented on [#103](https://github.com/inabahare/lewd2/issues/103) in [inabahare/lewd2](https://github.com/inabahare/lewd2)
+2. ❗️ Opened issue [#103](https://github.com/inabahare/lewd2/issues/103) in [inabahare/lewd2](https://github.com/inabahare/lewd2)
 3. 🗣 Commented on [#67](https://github.com/minvws/nl-covid19-coronacheck-app-ios/issues/67) in [minvws/nl-covid19-coronacheck-app-ios](https://github.com/minvws/nl-covid19-coronacheck-app-ios)
-4. ❗️ Opened issue [#67](https://github.com/minvws/nl-covid19-coronacheck-app-ios/issues/67) in [minvws/nl-covid19-coronacheck-app-ios](https://github.com/minvws/nl-covid19-coronacheck-app-ios)
-5. 🎉 Merged PR [#118](https://github.com/abcdan/chainson/pull/118) in [abcdan/chainson](https://github.com/abcdan/chainson)
+4. 🗣 Commented on [#67](https://github.com/minvws/nl-covid19-coronacheck-app-ios/issues/67) in [minvws/nl-covid19-coronacheck-app-ios](https://github.com/minvws/nl-covid19-coronacheck-app-ios)
+5. ❗️ Opened issue [#67](https://github.com/minvws/nl-covid19-coronacheck-app-ios/issues/67) in [minvws/nl-covid19-coronacheck-app-ios](https://github.com/minvws/nl-covid19-coronacheck-app-ios)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
