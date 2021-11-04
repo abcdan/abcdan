@@ -15,11 +15,11 @@ For more projects, check out my website [lngzl.nl/projects](https://lngzl.nl/pro
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/unscan-co/unscan-node/issues/1) in [unscan-co/unscan-node](https://github.com/unscan-co/unscan-node)
-2. 🗣 Commented on [#303](https://github.com/WeebDev/chibisafe/issues/303) in [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe)
-3. ❗️ Opened issue [#303](https://github.com/WeebDev/chibisafe/issues/303) in [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe)
-4. 🗣 Commented on [#103](https://github.com/inabahare/lewd2/issues/103) in [inabahare/lewd2](https://github.com/inabahare/lewd2)
-5. ❗️ Opened issue [#103](https://github.com/inabahare/lewd2/issues/103) in [inabahare/lewd2](https://github.com/inabahare/lewd2)
+1. 🎉 Merged PR [#1](https://github.com/unscan-co/unscan-node/pull/1) in [unscan-co/unscan-node](https://github.com/unscan-co/unscan-node)
+2. 🗣 Commented on [#1](https://github.com/unscan-co/unscan-node/issues/1) in [unscan-co/unscan-node](https://github.com/unscan-co/unscan-node)
+3. 🗣 Commented on [#303](https://github.com/WeebDev/chibisafe/issues/303) in [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe)
+4. ❗️ Opened issue [#303](https://github.com/WeebDev/chibisafe/issues/303) in [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe)
+5. 🗣 Commented on [#103](https://github.com/inabahare/lewd2/issues/103) in [inabahare/lewd2](https://github.com/inabahare/lewd2)
 <!--END_SECTION:activity-->
 
 ## 🌳 "Save" the climate!
