@@ -1,4 +1,4 @@
-hey!
+hey! 👋
 
 i'm daniel :) 
 
