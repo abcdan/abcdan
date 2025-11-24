@@ -8,6 +8,5 @@ currently working @ plug&pay + huddle + IMU + LNGZL, building some great stuff +
 https://betas.dev - Write, Ship, Fix. 
 
 https://fibo.dev - Poker planning made simple
-
 https://notes.pizza - Your notes, your way.
 
