@@ -12,5 +12,5 @@ currently working @ plug&pay + huddle + IMU + LNGZL, building some great stuff +
 <br>🍕 https://notes.pizza - Your notes, your way.
 <hr>
 
-my current tooling is orca + claude + kilo + codex + phpstorm + vscode + docker + orbstack
+my current tooling is orca + claude + kilo + codex + grokbot + openbot + phpstorm + vscode + docker + orbstack
 
