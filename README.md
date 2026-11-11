@@ -5,6 +5,7 @@ i'm daniel :)
 currently working @ plug&pay + huddle + IMU + LNGZL, building some great stuff + integrating LLMs 🪄
 
 <hr>
+<br>👋 https://aanmeld.link - Free signup links
 <br>📝 https://docblock.dev - you + your agents + notes
 <br>🛠️ https://betas.dev - Write, Ship, Fix.
 <br>🏥 https://medic.dev - Code review that shows its work.
